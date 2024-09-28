@@ -1,0 +1,9 @@
+# Assignment-1
+
+This is Assignment 1 of COMP4651 24' Spring. In this assignment, we have three questions, the first two queations are required measuring the computing and networking performance of EC2 instances. Please follow the instructions carefully! Question 3 is a data analysis task, which is about the decesion tree taught in the class. Students are required to answer these sub-questions in the cloned repository.  
+
+First, accept the assignment invitation on Canvas. Since this is your first time joining GitHub Classroom, please link your GitHub account to your personal identifer. lf you cannot find your name or if you have linked the wrong GitHub account, please contact TAs for assistance. After successfully accepting the invitation, GitHub Classroom will create a private Git repository for you, which includes a markdown-formatted file `assignment-1.md`. You will edit that file and put your answers there, using the Markdown annotation format.
+
+To finish Assignment 1, you need to launch EC2 instances following the steps taught in Lab2. We highly recommend Ubuntu 20.04 as the OS of the instances. Make sure you have enabled an inbound connection through SSH (TCP, port 22, sources from anywhere) in the security group. This will allow you to SSH to your EC2 instances anywhere in the globe. Next, SSH to your EC2 instances, install some system benchmarking tools (e.g., SysBench, iPerf, Ping, etc), and start to do some measurements. Lab3 in Oct. 30th will walk you through the basic settings.
+
+When you are done, make sure you have committed and pushed your answers to the original repository before the deadline. Any late submissions will not be accepted. If you are using the GitHub web editor, all commits will be pushed automatically. No additional submissions are required on Canvas.
